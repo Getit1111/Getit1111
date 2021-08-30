@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Getit1111
+- 👀 I’m interested in programming 
+- 🌱 I’m currently learning cs50
+- 📫 How to reach me getit@hashtag-is.co.za
